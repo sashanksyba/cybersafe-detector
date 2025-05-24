@@ -1,23 +1,20 @@
-# CyberSafe: Scam Message Detector
+# 🤖 CyberSafe: Scam Message Detector
 
-This project is an AI-powered tool to detect scam or spam messages using Hugging Face Transformers and Gradio.
+This project uses AI to detect scam or spam messages using Transformers and Gradio.
 
-## Features
-- Classifies text as scam/spam or safe (ham)
-- Shows confidence level of prediction
-- Provides safety tips based on result
+🔗 **Try it live here**:  
 
-## How to Run
+👉 [CyberSafe Live Demo](https://huggingface.co/spaces/Sashank1205/cybersafe-detector)
 
-```bash
-pip install -r requirements.txt
-python app.py
-```
+## 🚀 Features
+- Detects spam messages
+- Shows confidence score
+- Simple UI with Gradio
 
-## Built With
+## 🛠️ Built With
 - Python
 - Hugging Face Transformers
 - Gradio
 
----
-Made by Sashank 💻
+## 👨‍💻 Author
+[Sashank Syba](https://github.com/sashanksyba)
